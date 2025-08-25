@@ -1,0 +1,10 @@
+[
+  {
+    "id": "prompt_receiver_module",
+    "name": "Prompt Receiver",
+    "description": "Receives a prompt from a UI widget via an event and passes it to the next node.",
+    "version": "1.0",
+    "tier": "free",
+    "download_url": "https://github.com/FLOWORK-gif/addon/raw/main/modules/prompt_receiver_module.zip"
+  }
+]
