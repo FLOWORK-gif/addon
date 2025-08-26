@@ -14,5 +14,13 @@
     "version": "1.1.0",
     "tier": "free",
     "download_url": "https://github.com/FLOWORK-gif/addon/raw/main/modules/fail_always_plugin.zip"
+  },
+  {
+    "id": "advanced_web_scraper_module_1a2b",
+    "name": "Advanced Web Scraper (Selenium)",
+    "description": "Extracts data from modern websites that use JavaScript, by controlling a real browser. Now with caching.",
+    "version": "1.2",
+    "tier": "basic",
+    "download_url": "https://github.com/FLOWORK-gif/addon/raw/main/modules/advanced_web_scraper_module_1a2b.zip"
   }
 ]
