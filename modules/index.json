@@ -38,5 +38,13 @@
     "version": "1.0",
     "tier": "free",
     "download_url": "https://github.com/FLOWORK-gif/addon/raw/main/modules/image_viewer_module.zip"
+  },
+  {
+    "id": "intelligent_content_extractor",
+    "name": "Agentic Web Scraper",
+    "description": "Deploys an autonomous AI agent to navigate websites, interact with elements, and extract information to fulfill a high-level objective.",
+    "version": "3.0",
+    "tier": "architect",
+    "download_url": "https://github.com/FLOWORK-gif/addon/raw/main/modules/intelligent_content_extractor.zip"
   }
 ]
