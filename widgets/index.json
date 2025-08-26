@@ -6,5 +6,12 @@
     "version": "1.0",
     "tier": "pro",
     "download_url": "https://github.com/FLOWORK-gif/addon/raw/main/widgets/dataset_manager_widget.zip"
+  },
+  {
+    "id": "log_viewer",
+    "name": "Log Eksekusi",
+    "description": "Widget inti untuk menampilkan, memfilter, dan mengelola log eksekusi.",
+    "version": "1.0",
+    "download_url": "https://github.com/FLOWORK-gif/addon/raw/main/widgets/log_viewer_widget.zip"
   }
 ]
