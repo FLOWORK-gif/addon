@@ -46,5 +46,13 @@
     "version": "3.0",
     "tier": "architect",
     "download_url": "https://github.com/FLOWORK-gif/addon/raw/main/modules/intelligent_content_extractor.zip"
+  },
+  {
+    "id": "email_sender_module_b5c6",
+    "name": "Email Sender",
+    "description": "Sends an email via an SMTP server. The recipient, subject, and body can be configured or taken dynamically from the payload.",
+    "version": "1.0.0",
+    "tier": "basic",
+    "download_url": "https://github.com/FLOWORK-gif/addon/raw/main/modules/email_sender_module_b5c6.zip"
   }
 ]
