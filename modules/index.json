@@ -54,5 +54,13 @@
     "version": "1.0.0",
     "tier": "basic",
     "download_url": "https://github.com/FLOWORK-gif/addon/raw/main/modules/email_sender_module_b5c6.zip"
+  },
+  {
+    "id": "excel_manager_module",
+    "name": "Spreadsheet (Excel) Manager",
+    "description": "Reads rows from or writes new rows to an Excel file (.xlsx, .xls). Supports sheet, row, and column selection.",
+    "version": "1.0.0",
+    "tier": "basic",
+    "download_url": "https://github.com/FLOWORK-gif/addon/raw/main/modules/excel_manager_module.zip"
   }
 ]
