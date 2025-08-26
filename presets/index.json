@@ -6,5 +6,13 @@
     "version": "1.0",
     "tier": "free",
     "download_url": "https://github.com/FLOWORK-gif/addon/raw/main/presets/1. TEST RECEIVER.zip"
+  },
+  {
+    "id": "10.MANUAL APROVE",
+    "name": "10.MANUAL APROVE",
+    "description": "A great component: 10.MANUAL APROVE",
+    "version": "1.0",
+    "tier": "free",
+    "download_url": "https://github.com/FLOWORK-gif/addon/raw/main/presets/10.MANUAL APROVE.zip"
   }
 ]
