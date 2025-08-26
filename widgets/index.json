@@ -1,0 +1,10 @@
+[
+  {
+    "id": "dataset_manager_widget",
+    "name": "Dataset Manager",
+    "description": "A widget to create, manage, and add data to fine-tuning datasets stored in the local database.",
+    "version": "1.0",
+    "tier": "pro",
+    "download_url": "https://github.com/FLOWORK-gif/addon/raw/main/widgets/dataset_manager_widget.zip"
+  }
+]
