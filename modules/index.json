@@ -22,5 +22,13 @@
     "version": "1.2",
     "tier": "basic",
     "download_url": "https://github.com/FLOWORK-gif/addon/raw/main/modules/advanced_web_scraper_module_1a2b.zip"
+  },
+  {
+    "id": "agent_host_module",
+    "name": "Agent Host",
+    "description": "Acts as an autonomous agent on the canvas, using connected nodes as its tools, brain, and prompt to achieve a high-level objective.",
+    "version": "2.2",
+    "tier": "architect",
+    "download_url": "https://github.com/FLOWORK-gif/addon/raw/main/modules/agent_host_module.zip"
   }
 ]
