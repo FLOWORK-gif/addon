@@ -13,5 +13,13 @@
     "description": "Widget inti untuk menampilkan, memfilter, dan mengelola log eksekusi.",
     "version": "1.0",
     "download_url": "https://github.com/FLOWORK-gif/addon/raw/main/widgets/log_viewer_widget.zip"
+  },
+  {
+    "id": "prompt_sender_widget",
+    "name": "Prompt Sender",
+    "description": "A dashboard widget to send a text prompt to a specific receiver module in a workflow.",
+    "version": "1.0",
+    "tier": "free",
+    "download_url": "https://github.com/FLOWORK-gif/addon/raw/main/widgets/prompt_sender_widget.zip"
   }
 ]
