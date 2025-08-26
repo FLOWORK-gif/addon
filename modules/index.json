@@ -30,5 +30,13 @@
     "version": "2.2",
     "tier": "architect",
     "download_url": "https://github.com/FLOWORK-gif/addon/raw/main/modules/agent_host_module.zip"
+  },
+  {
+    "id": "image_viewer_module",
+    "name": "Image Viewer",
+    "description": "Displays an image in a popup window from a local file path provided by the payload or manual input.",
+    "version": "1.0",
+    "tier": "free",
+    "download_url": "https://github.com/FLOWORK-gif/addon/raw/main/modules/image_viewer_module.zip"
   }
 ]
