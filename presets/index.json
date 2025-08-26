@@ -22,5 +22,13 @@
     "version": "1.0",
     "tier": "free",
     "download_url": "https://github.com/FLOWORK-gif/addon/raw/main/presets/2.WEB SCRAPER (SELENIUM).zip"
+  },
+  {
+    "id": "3. IMAGE GENERATOR (REALISTIC)",
+    "name": "3. IMAGE GENERATOR (REALISTIC)",
+    "description": "A great component: 3. IMAGE GENERATOR (REALISTIC)",
+    "version": "1.0",
+    "tier": "free",
+    "download_url": "https://github.com/FLOWORK-gif/addon/raw/main/presets/3. IMAGE GENERATOR (REALISTIC).zip"
   }
 ]
