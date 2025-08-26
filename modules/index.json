@@ -6,5 +6,13 @@
     "version": "1.0",
     "tier": "free",
     "download_url": "https://github.com/FLOWORK-gif/addon/raw/main/modules/prompt_receiver_module.zip"
+  },
+  {
+    "id": "fail_always_plugin",
+    "name": "Fail Always",
+    "description": "The 'Fail Always' module is attempting to act...",
+    "version": "1.1.0",
+    "tier": "free",
+    "download_url": "https://github.com/FLOWORK-gif/addon/raw/main/modules/fail_always_plugin.zip"
   }
 ]
