@@ -14,5 +14,13 @@
     "version": "1.0",
     "tier": "free",
     "download_url": "https://github.com/FLOWORK-gif/addon/raw/main/presets/10.MANUAL APROVE.zip"
+  },
+  {
+    "id": "2.WEB SCRAPER (SELENIUM)",
+    "name": "2.WEB SCRAPER (SELENIUM)",
+    "description": "A great component: 2.WEB SCRAPER (SELENIUM)",
+    "version": "1.0",
+    "tier": "free",
+    "download_url": "https://github.com/FLOWORK-gif/addon/raw/main/presets/2.WEB SCRAPER (SELENIUM).zip"
   }
 ]
