@@ -1,0 +1,10 @@
+[
+  {
+    "id": "article_generator_tools",
+    "name": "Article Generator Tools",
+    "description": "A tool that takes a detailed prompt and uses a specified AI provider to generate an article. Designed to be used by an Agent Host.",
+    "version": "1.2.0",
+    "tier": "free",
+    "download_url": "https://github.com/FLOWORK-gif/addon/raw/main/plugins/article_generator_tools.zip"
+  }
+]
