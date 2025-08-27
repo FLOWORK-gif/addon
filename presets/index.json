@@ -30,5 +30,13 @@
     "version": "1.0",
     "tier": "free",
     "download_url": "https://github.com/FLOWORK-gif/addon/raw/main/presets/3. IMAGE GENERATOR (REALISTIC).zip"
+  },
+  {
+    "id": "ERR",
+    "name": "ERR",
+    "description": "A great component: ERR",
+    "version": "1.0",
+    "tier": "free",
+    "download_url": "https://github.com/FLOWORK-gif/addon/raw/main/presets/ERR.zip"
   }
 ]
