@@ -62,5 +62,13 @@
     "version": "1.0.0",
     "tier": "basic",
     "download_url": "https://github.com/FLOWORK-gif/addon/raw/main/modules/excel_manager_module.zip"
+  },
+  {
+    "id": "text_to_json_converter_module",
+    "name": "Text to JSON Converter",
+    "description": "Converts a plain text string into a structured list of JSON objects based on user-defined delimiters and keys.",
+    "version": "1.0.0",
+    "tier": "free",
+    "download_url": "https://github.com/FLOWORK-gif/addon/raw/main/modules/text_to_json_converter_module.zip"
   }
 ]
