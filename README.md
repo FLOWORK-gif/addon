@@ -12,9 +12,17 @@ Every piece of work here is uploaded directly by creators **through the Flowork 
 
 ---
 
-### ## ⚙️ How to Use Addons (The Super Easy Way!)
+### ## ⚙️ How to Use Addons (Super Easy!)
 
-Forget complicated manual methods! Installing addons from the community is now more intuitive than ever, right from within the Flowork app:
+Before you can use any of these amazing community creations, you need the main application itself.
+
+**Step 0: Download Flowork First!**
+
+Make sure you have the latest version of the Flowork application running on your computer. If you don't have it yet, download it from the official repository:
+
+➡️ **[Download Flowork Here](https://github.com/FLOWORK-gif/FLOWORK)** ⬅️
+
+Once Flowork is running, you're ready to install addons:
 
 1.  **Open Flowork** on your computer.
 2.  Navigate to the **Addon Manager**.
@@ -28,7 +36,7 @@ Forget complicated manual methods! Installing addons from the community is now m
 
 Have a cool module or widget that could make someone else's life easier? Don't keep it to yourself! Share it here and become a part of the innovation. The process is designed to be incredibly simple, all through the Flowork app:
 
-1.  **Create & Test Your Addon**: Develop your module, plugin, or widget on your local machine. Make sure you've tested it thoroughly. (Psst... use the **Module Factory** inside Flowork for a massive head start!).
+1.  **Create & Test Your Addon**: Develop your module, plugin, or widget on your local machine. Make sure it's tested and working smoothly. (Psst... use the **Module Factory** inside Flowork for a massive head start!).
 2.  **Open the Addon Manager**: In your Flowork application, navigate to the **Addon Manager** page.
 3.  **Find Your Local Addon**: In the **"Locally Installed"** tab, find the addon you just created and tested.
 4.  **Click the Upload Button**: Next to your addon's name, click **"Upload to Community..."**.
@@ -68,4 +76,4 @@ All addons in this repository are licensed under the **MIT License**, unless oth
 
 ---
 
-Got a crazy idea, a question, or just want to hang out? **Let's chat on Telegram!** https://t.me/FLOWORK_6
+Got a crazy idea, a question, or just want to hang out? **Let's chat on Telegram!**
